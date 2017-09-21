@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service
+    android:description="@string/app_name"
+    android:accessibilityEventTypes="typeAllMask"
+    android:packageNames="alien.com.wedge_app"
+    android:accessibilityFeedbackType="feedbackAllMask"
+    android:notificationTimeout="100"
+    android:canRetrieveWindowContent="true"
+    android:canRequestTouchExplorationMode="true"
+    android:canRequestEnhancedWebAccessibility="true"
+    android:canRequestFilterKeyEvents="true"
+    android:accessibilityFlags="flagRequestFilterKeyEvents"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
+
