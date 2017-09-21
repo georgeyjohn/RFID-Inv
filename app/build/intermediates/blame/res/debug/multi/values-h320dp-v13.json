@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\Rehrig\\RFID\\AclbyServiceInventry\\kbd-wedge-rfid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h320dp-v13\\values-h320dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Georgey\\.android\\build-cache\\55854de588934aab34db39d914ce17036cf89e80\\output\\res\\values-h320dp\\values-h320dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 57,
+                        "endOffset": 342
+                    }
+                }
+            }
+        ]
+    }
+]

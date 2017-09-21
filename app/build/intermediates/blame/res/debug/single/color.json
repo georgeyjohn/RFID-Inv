@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Rehrig\\RFID\\AclbyServiceInventry\\kbd-wedge-rfid\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Georgey\\.android\\build-cache\\55854de588934aab34db39d914ce17036cf89e80\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Rehrig\\RFID\\AclbyServiceInventry\\kbd-wedge-rfid\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Georgey\\.android\\build-cache\\55854de588934aab34db39d914ce17036cf89e80\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Rehrig\\RFID\\AclbyServiceInventry\\kbd-wedge-rfid\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Georgey\\.android\\build-cache\\55854de588934aab34db39d914ce17036cf89e80\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Rehrig\\RFID\\AclbyServiceInventry\\kbd-wedge-rfid\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Georgey\\.android\\build-cache\\55854de588934aab34db39d914ce17036cf89e80\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Rehrig\\RFID\\AclbyServiceInventry\\kbd-wedge-rfid\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Georgey\\.android\\build-cache\\55854de588934aab34db39d914ce17036cf89e80\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\Rehrig\\RFID\\AclbyServiceInventry\\kbd-wedge-rfid\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Georgey\\.android\\build-cache\\55854de588934aab34db39d914ce17036cf89e80\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Rehrig\\RFID\\AclbyServiceInventry\\kbd-wedge-rfid\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Georgey\\.android\\build-cache\\55854de588934aab34db39d914ce17036cf89e80\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Rehrig\\RFID\\AclbyServiceInventry\\kbd-wedge-rfid\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Georgey\\.android\\build-cache\\55854de588934aab34db39d914ce17036cf89e80\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Rehrig\\RFID\\AclbyServiceInventry\\kbd-wedge-rfid\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Georgey\\.android\\build-cache\\55854de588934aab34db39d914ce17036cf89e80\\output\\res\\color\\switch_thumb_material_dark.xml"
+    }
+]
